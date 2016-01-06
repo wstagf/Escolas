@@ -1,70 +1,70 @@
-'INSTITUIÇÃO','ENDEREÇO','Latitude','Longitude';
-'casa','Rua 18-d','','';
-'EM Abrão Rassi ','Rua C-11 nº 50 Vila Canaã','','';
-'EM Arão Fernandes de Oliveira ','Av. La Paz s/nº Setor das Nações - Extensão','','';
-'EM Arcebispo Dom Emanuel ','Rua 1 QD. 21 Lts 160 e 162 Nº 496 Setor Castelo Branco','','';
-'EM Buena Vista ','Rua Pouso Alegre c/ Porto Franco QD. APM 29 – Res.Buena Vista IV','','';
-'EM César da Cunha Bastos ','Rua Benedito C. Pereira QD. 26 Nº 451 Solange Park I','','';
-'EM Dom Fernando Gomes dos Santos ','Al. Parque Taquaral QD. 48 Nº 464 Residencial Goiânia Viva','','';
-'EM Dr. Nicanor de Assis Albernaz ','Rua Alpha Quatorze QD. 6 nº 333 Área Alphaville Residencial','','';
-'EM Eli Brasiliense ','Rua Dona Carolina QD. 40 Nº 151 Residencial Goiânia Viva','','';
-'EM Engº Antônio Félix da Silva ','Rua Dinamarca QD. 99 Jardim Europa','','';
-'EM Engº Robinho M. de Azevedo ','Av. B-1 s/nº Conjunto Baliza','','';
-'EM Ernestina Lina Marra ','Av. Francisco A. de Oliveira QD. 17 LT. 4 Nº 1300 Pq. Indl.João Brás','','';
-'EM Eva Vieira de Almeida ','Rua Rovigo nº 280 Conj. Vila Alvorada','','';
-'EM Frei Nazareno Confaloni ','Rua U-64 / U-60 / U-59 Área 151 S/Nº Setor União','','';
-'EM Georgeta Rivalino Duarte ','Rua General Cunha Matos QD. 27 LT2-7 nº 455 Vila Mauá','','';
-'EM Honestino Monteiro Guimarães ','Rua Profº José F. Da Cunha QD. 7 LT. 1-11 Jd. Aritana','','';
-'EM Jarbas Jayme ','Rua C-75 nº 243 Setor Sudoeste','','';
-'EM Dom Thomás Balduíno ','Rua dos Girassóis, com Rua da Liberdade, Rua Aloe Vera e Rua Alegria, Jd. do Cerrado I.','','';
-'EM João Alves de Queiroz ','Rua EF-9 c/ EF-10 QD. APN-3 Residencial Eli Forte','','';
-'EM João Vieira da Paixão ','Rua SB-14 c/ SB-15 Residencial Solar Bouganville','','';
-'EM Joaquim Câmara Filho ','Rua das Dracenas c/ Rua das Magnólias – Jardins do Cerrado IV','','';
-'EM Laurindo Sobreira do Amaral ','Rua Valdir Azevedo c/ Av. Gercina B. Teixeira Área 122 Conj. Vera Cruz','','';
-'EM Lorena Park ','Rua Valentim Capuzzo QD. 10 Nº 250 Lorena Park','','';
-'EM Luzia de Souza Fiúza ','Rua W-10 QD. 42 Jardim Itaipu','','';
-'EM Manoel Jacintho Coelho ','Rua JC-103 APM 4 Residencial Jardins do Cerrado VI','','';
-'EM Monteiro Lobato ','Rua Conceição Pereira Carmena QD. 10 Jd. Caravelas','','';
-'EM Osterno Potenciano e Silva ','Rua 11 nº 285 Setor Castelo Branco','','';
-'EM Pedro Xavier Teixeira ','Rua CD-28 QD. F Nº 663 Área Conjunto Cachoeira Dourada','','';
-'EM Profª Antônia Maranhão do Amaral ','Av. Argentina Monteiro Nº 2131 Conjunto Vera Cruz VII Etapa','','';
-'EM Profª Deushaydes R. de Oliveira ','Rua CP-26 nº 125 Loteamento Celina Park','','';
-'EM Profª Nara do Carmo Rezende Amorim ','Rua Elo-36 c/ Elo-26 QD. APM Pq. Eldorado Oeste','','';
-'EM Renascer ','Rua RC-7c/ RC-16 APM 8 Residencial Real Conquista','','';
-'EM Residencial Itaipu ','Rua RI-37 Qd. 102 LT.11 Residencial Itaipu','','';
-'EM Residencial Monte Carlo ','Área 10 entre Via Abel e RMC2 Residencial Monte Carlo','','';
-'EM Setor Grajau ','Rua G1 QD. APM 11 Setor Grajaú','','';
-'EM Targino de Aguiar ','Al. Câmara Filho QD. 134 LT.6/16 nº 1652 Pq. Oeste Industrial','','';
-'EM Vereador Carlos Eurico C. Alves ','Av. Bacuri nº 486 Pq. Santa Rita','','';
-'Educandário Rainha da Paz Rua ','U-54 Área 15 Setor União','','';
-'Escola Especial ASCEP ','Rua Puccine Nº 145 Qd. 6 LT. 1-8 Jardim Europa','','';
-'Escola Neio Lúcio Naciff ','Rua Padre Eliezer QD. C-19 LT. 5 Conjunto Vera Cruz I','','';
-'CEI Espírita Vovó Meca ','Via Santa Luzia Lt. 25 e 26 Condomínio Rio Formoso','','';
-'CEI Serafim Rodrigues de Morais Filho ','Rua Valentim Capuzzo c/ Rua Joaquim Alves Ribeiro QD. 36 Setor Solange Park','','';
-'CEI Maria de Nazaré ','Av. Argentina Monteiro Conjunto Vera Cruz','','';
-'CMEI 13 de Maio ','Rua 13 de Maio, 57 Pq. Indl. João Braz','','';
-'CMEI Andréia Cristina ','Alameda Tamandaré QD. 3 Setor Boa Sorte','','';
-'CMEI Residencial Buena Vista ','Rua João Amorely c/ Vanda Matos QD. APM 1 LT. 1 Residencial Buena Vista I','','';
-'CMEI Clemente Raimundo Sauthier ','Av. Bacuri, 471 Pq. Santa Rita','','';
-'CMEI Condomínio Rio Branco ','Rua Oriente QD. 8 LT. 1 Cond. Rio Branco','','';
-'CMEI Conjunto Vera Cruz II ','Rua Ari Barroso entre VC-57 e VC-58 Conj. Vera Cruz II','','';
-'CMEI Conjunto Vera Cruz VI ','Rua VC-46 C/ Manoel Bandeira VI Etapa','','';
-'CMEI Consuelo Nasser ','Rua AC-6 c/ AC-5 e AC-8 QD. APM 02 Residencial Ana Clara','','';
-'CMEI Criança Feliz ','Rua VC-3 QD. 1 Conj. Vera Cruz I','','';
-'CMEI Domiciano de Faria ','Rua EF-16 c/ EF-18 Residencial Eli Forte','','';
-'CMEI Goiânia Viva ','Rua GV-23 c/ GV-22 QD. 55 LT.3,4,5 Residencial Goiânia Viva','','';
-'CMEI Jardim Ana Lúcia ','Rua Ponte Nova S/N Jd. Ana Lúcia','','';
-'CMEI Jardins do Cerrado I ','Rua Amor Perfeito c/ Rua dos Girassois APM Jardins do Cerrado I','','';
-'CMEI Jardins do Cerrado VI AMP-1 ','Rua JC-208 e JC-201 Residencial Jardim do Cerrado VI','','';
-'CMEI Monteiro Lobato ','Av. Tóquio c/ Av. Madri QD. 13 S/N Pq. Industrial João Braz','','';
-'CMEI Orient Ville ','Rua Joaquim Cândido Silva, Qd. APM - 2, Lt. 01 - área, St. Oriente Ville','','';
-'CMEI Parque Eldorado Oeste ','Rua Elo 3 c/ Elo 43 c/ Elo 14 APM 7 – Pq. Eldorado Oeste','','';
-'CMEI Profª Nair Lacerda Jubé Borges ','Rua 30 c/ rua 24 Condomínio das Esmeraldas','','';
-'CMEI Real Conquista Avenida ','Real Conquista com Rua RC52- Residencial Conquista.','','';
-'CMEI Recanto Infantil ','Rua 8 c/ rua 3 Vila Santa Teresa','','';
-'CMEI Residencial Alfaville ','Rua Alfa 24 c/ 19, 19-A e 26 Residencial Alfaville','','';
-'CMEI Residencial Buena Vista ','Rua João Amorely c/ Vanda Matos QD. APM 1 LT. 1 Res. Buena Vista I','','';
-'CMEI Residencial Itaipu ','Rua RI-30 c/ RI-11 e RI-12 QD. 44 Residencial Itaipu','','';
-'CMEI Setor União ','Rua U-4 QD. 16 Setor União','','';
-'CMEI Solange Park II ','Rua Dna. Chiquita Qd. APM, Setor Solange Park II','','';
-'CMEI Vila Mauá ','Rua Inconfidência Mineira Vila Mauá','','';
+'INSTITUIÇÃO','ENDEREÇO','Latitude','Longitude'
+'casa','Rua 18-d','',''
+'EM Abrão Rassi ','Rua C-11 nº 50 Vila Canaã','',''
+'EM Arão Fernandes de Oliveira ','Av. La Paz s/nº Setor das Nações - Extensão','',''
+'EM Arcebispo Dom Emanuel ','Rua 1 QD. 21 Lts 160 e 162 Nº 496 Setor Castelo Branco','',''
+'EM Buena Vista ','Rua Pouso Alegre c/ Porto Franco QD. APM 29 – Res.Buena Vista IV','',''
+'EM César da Cunha Bastos ','Rua Benedito C. Pereira QD. 26 Nº 451 Solange Park I','',''
+'EM Dom Fernando Gomes dos Santos ','Al. Parque Taquaral QD. 48 Nº 464 Residencial Goiânia Viva','',''
+'EM Dr. Nicanor de Assis Albernaz ','Rua Alpha Quatorze QD. 6 nº 333 Área Alphaville Residencial','',''
+'EM Eli Brasiliense ','Rua Dona Carolina QD. 40 Nº 151 Residencial Goiânia Viva','',''
+'EM Engº Antônio Félix da Silva ','Rua Dinamarca QD. 99 Jardim Europa','',''
+'EM Engº Robinho M. de Azevedo ','Av. B-1 s/nº Conjunto Baliza','',''
+'EM Ernestina Lina Marra ','Av. Francisco A. de Oliveira QD. 17 LT. 4 Nº 1300 Pq. Indl.João Brás','',''
+'EM Eva Vieira de Almeida ','Rua Rovigo nº 280 Conj. Vila Alvorada','',''
+'EM Frei Nazareno Confaloni ','Rua U-64 / U-60 / U-59 Área 151 S/Nº Setor União','',''
+'EM Georgeta Rivalino Duarte ','Rua General Cunha Matos QD. 27 LT2-7 nº 455 Vila Mauá','',''
+'EM Honestino Monteiro Guimarães ','Rua Profº José F. Da Cunha QD. 7 LT. 1-11 Jd. Aritana','',''
+'EM Jarbas Jayme ','Rua C-75 nº 243 Setor Sudoeste','',''
+'EM Dom Thomás Balduíno ','Rua dos Girassóis, com Rua da Liberdade, Rua Aloe Vera e Rua Alegria, Jd. do Cerrado I.','',''
+'EM João Alves de Queiroz ','Rua EF-9 c/ EF-10 QD. APN-3 Residencial Eli Forte','',''
+'EM João Vieira da Paixão ','Rua SB-14 c/ SB-15 Residencial Solar Bouganville','',''
+'EM Joaquim Câmara Filho ','Rua das Dracenas c/ Rua das Magnólias – Jardins do Cerrado IV','',''
+'EM Laurindo Sobreira do Amaral ','Rua Valdir Azevedo c/ Av. Gercina B. Teixeira Área 122 Conj. Vera Cruz','',''
+'EM Lorena Park ','Rua Valentim Capuzzo QD. 10 Nº 250 Lorena Park','',''
+'EM Luzia de Souza Fiúza ','Rua W-10 QD. 42 Jardim Itaipu','',''
+'EM Manoel Jacintho Coelho ','Rua JC-103 APM 4 Residencial Jardins do Cerrado VI','',''
+'EM Monteiro Lobato ','Rua Conceição Pereira Carmena QD. 10 Jd. Caravelas','',''
+'EM Osterno Potenciano e Silva ','Rua 11 nº 285 Setor Castelo Branco','',''
+'EM Pedro Xavier Teixeira ','Rua CD-28 QD. F Nº 663 Área Conjunto Cachoeira Dourada','',''
+'EM Profª Antônia Maranhão do Amaral ','Av. Argentina Monteiro Nº 2131 Conjunto Vera Cruz VII Etapa','',''
+'EM Profª Deushaydes R. de Oliveira ','Rua CP-26 nº 125 Loteamento Celina Park','',''
+'EM Profª Nara do Carmo Rezende Amorim ','Rua Elo-36 c/ Elo-26 QD. APM Pq. Eldorado Oeste','',''
+'EM Renascer ','Rua RC-7c/ RC-16 APM 8 Residencial Real Conquista','',''
+'EM Residencial Itaipu ','Rua RI-37 Qd. 102 LT.11 Residencial Itaipu','',''
+'EM Residencial Monte Carlo ','Área 10 entre Via Abel e RMC2 Residencial Monte Carlo','',''
+'EM Setor Grajau ','Rua G1 QD. APM 11 Setor Grajaú','',''
+'EM Targino de Aguiar ','Al. Câmara Filho QD. 134 LT.6/16 nº 1652 Pq. Oeste Industrial','',''
+'EM Vereador Carlos Eurico C. Alves ','Av. Bacuri nº 486 Pq. Santa Rita','',''
+'Educandário Rainha da Paz Rua ','U-54 Área 15 Setor União','',''
+'Escola Especial ASCEP ','Rua Puccine Nº 145 Qd. 6 LT. 1-8 Jardim Europa','',''
+'Escola Neio Lúcio Naciff ','Rua Padre Eliezer QD. C-19 LT. 5 Conjunto Vera Cruz I','',''
+'CEI Espírita Vovó Meca ','Via Santa Luzia Lt. 25 e 26 Condomínio Rio Formoso','',''
+'CEI Serafim Rodrigues de Morais Filho ','Rua Valentim Capuzzo c/ Rua Joaquim Alves Ribeiro QD. 36 Setor Solange Park','',''
+'CEI Maria de Nazaré ','Av. Argentina Monteiro Conjunto Vera Cruz','',''
+'CMEI 13 de Maio ','Rua 13 de Maio, 57 Pq. Indl. João Braz','',''
+'CMEI Andréia Cristina ','Alameda Tamandaré QD. 3 Setor Boa Sorte','',''
+'CMEI Residencial Buena Vista ','Rua João Amorely c/ Vanda Matos QD. APM 1 LT. 1 Residencial Buena Vista I','',''
+'CMEI Clemente Raimundo Sauthier ','Av. Bacuri, 471 Pq. Santa Rita','',''
+'CMEI Condomínio Rio Branco ','Rua Oriente QD. 8 LT. 1 Cond. Rio Branco','',''
+'CMEI Conjunto Vera Cruz II ','Rua Ari Barroso entre VC-57 e VC-58 Conj. Vera Cruz II','',''
+'CMEI Conjunto Vera Cruz VI ','Rua VC-46 C/ Manoel Bandeira VI Etapa','',''
+'CMEI Consuelo Nasser ','Rua AC-6 c/ AC-5 e AC-8 QD. APM 02 Residencial Ana Clara','',''
+'CMEI Criança Feliz ','Rua VC-3 QD. 1 Conj. Vera Cruz I','',''
+'CMEI Domiciano de Faria ','Rua EF-16 c/ EF-18 Residencial Eli Forte','',''
+'CMEI Goiânia Viva ','Rua GV-23 c/ GV-22 QD. 55 LT.3,4,5 Residencial Goiânia Viva','',''
+'CMEI Jardim Ana Lúcia ','Rua Ponte Nova S/N Jd. Ana Lúcia','',''
+'CMEI Jardins do Cerrado I ','Rua Amor Perfeito c/ Rua dos Girassois APM Jardins do Cerrado I','',''
+'CMEI Jardins do Cerrado VI AMP-1 ','Rua JC-208 e JC-201 Residencial Jardim do Cerrado VI','',''
+'CMEI Monteiro Lobato ','Av. Tóquio c/ Av. Madri QD. 13 S/N Pq. Industrial João Braz','',''
+'CMEI Orient Ville ','Rua Joaquim Cândido Silva, Qd. APM - 2, Lt. 01 - área, St. Oriente Ville','',''
+'CMEI Parque Eldorado Oeste ','Rua Elo 3 c/ Elo 43 c/ Elo 14 APM 7 – Pq. Eldorado Oeste','',''
+'CMEI Profª Nair Lacerda Jubé Borges ','Rua 30 c/ rua 24 Condomínio das Esmeraldas','',''
+'CMEI Real Conquista Avenida ','Real Conquista com Rua RC52- Residencial Conquista.','',''
+'CMEI Recanto Infantil ','Rua 8 c/ rua 3 Vila Santa Teresa','',''
+'CMEI Residencial Alfaville ','Rua Alfa 24 c/ 19, 19-A e 26 Residencial Alfaville','',''
+'CMEI Residencial Buena Vista ','Rua João Amorely c/ Vanda Matos QD. APM 1 LT. 1 Res. Buena Vista I','',''
+'CMEI Residencial Itaipu ','Rua RI-30 c/ RI-11 e RI-12 QD. 44 Residencial Itaipu','',''
+'CMEI Setor União ','Rua U-4 QD. 16 Setor União','',''
+'CMEI Solange Park II ','Rua Dna. Chiquita Qd. APM, Setor Solange Park II','',''
+'CMEI Vila Mauá ','Rua Inconfidência Mineira Vila Mauá','',''
