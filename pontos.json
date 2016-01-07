@@ -1,51 +1,70 @@
 [
-    {
-        "Latitude": -16.7696477,
-        "Longitude": -49.3319283
-    },
-    {
-        "Latitude": -16.6887598,
-        "Longitude": -49.3136246
-    },
-    {
-        "Latitude": -16.6843049,
-        "Longitude": -49.3787646
-    },
-    {
-        "Latitude":  -16.678495,
-        "Longitude":  -49.3026343
-    },
-	{
-        "Latitude":  -16.7190806,
-        "Longitude":  -49.3987083
-    },
-	{
-        "Latitude":  -16.700746,
-        "Longitude":  -49.3561637
-    },
-	{
-        "Latitude":  -16.696962,
-        "Longitude":  -49.3506705
-    },
-	{
-        "Latitude":  -16.7284591,
-        "Longitude":  -49.3772138
-    },
-	{
-        "Latitude":  -16.6939422,
-        "Longitude":  -49.3478713
-    }, {
-		"Latitude":  -16.7128196,
-        "Longitude":  -49.3101611
-	}, {
-		"Latitude":  -16.7817068,
-        "Longitude":  -49.3670647
-	}, {
-		"Latitude":   -16.6845455,
-        "Longitude":  -49.3606563 
-	}
+	{"INSTITUICAO":"casa","ENDERECO":"Rua 18-d","Latitude":-16.7690814,"Longitude":-49.3283556},
+	{"INSTITUICAO":"EM Abrao Rassi ","ENDERECO":"Rua C-11 n 50 Vila Canaa","Latitude":-16.6893558,"Longitude":-49.3122352},
+	{"INSTITUICAO":"EM Arao Fernandes de Oliveira ","ENDERECO":"Av. La Paz s/n Setor das Nacoes - Extensao","Latitude":-16.6839054,"Longitude":-49.3790355},
+	{"INSTITUICAO":"EM Arcebispo Dom Emanuel ","ENDERECO":"Rua 1 QD. 21 Lts 160 e 162 N 496 Setor Castelo Branco","Latitude":-16.6786145,"Longitude":-49.3032780},
+	{"INSTITUICAO":"EM Buena Vista ","ENDERECO":"Rua Pouso Alegre c/ Porto Franco QD. APM 29  Res.Buena Vista IV","Latitude":-16.7192989,"Longitude":-49.3977454},
+	{"INSTITUICAO":"EM Cesar da Cunha Bastos ","ENDERECO":"Rua Benedito C. Pereira QD. 26 N 451 Solange Park I","Latitude":-16.7006779,"Longitude":-49.3543639},
+	{"INSTITUICAO":"EM Dom Fernando Gomes dos Santos ","ENDERECO":"Al. Parque Taquaral QD. 48 N 464 Residencial Goiania Viva","Latitude":-16.6969485,"Longitude":-49.3486038},
+	{"INSTITUICAO":"EM Dr. Nicanor de Assis Albernaz ","ENDERECO":"Rua Alpha Quatorze QD. 6 n 333 area Alphaville Residencial","Latitude":-16.7286613,"Longitude":-49.3751378},
+	{"INSTITUICAO":"EM Eli Brasiliense ","ENDERECO":"Rua Dona Carolina QD. 40 N 151 Residencial Goiania Viva","Latitude":-16.6939422,"Longitude":-49.3478713},
+	{"INSTITUICAO":"EM Eng Antonio Felix da Silva ","ENDERECO":"Rua Dinamarca QD. 99 Jardim Europa","Latitude":-16.7128196,"Longitude":-49.3101611},
+	{"INSTITUICAO":"EM Eng Robinho M. de Azevedo ","ENDERECO":"Av. B-1 s/n Conjunto Baliza","Latitude":-16.7818259,"Longitude":-49.3679907},
+	{"INSTITUICAO":"EM Ernestina Lina Marra ","ENDERECO":"Av. Francisco A. de Oliveira QD. 17 LT. 4 N 1300 Pq. Indl.Joao Bras","Latitude":-16.6845948,"Longitude":-49.3621737},
+	{"INSTITUICAO":"EM Eva Vieira de Almeida ","ENDERECO":"Rua Rovigo n 280 Conj. Vila Alvorada","Latitude":-16.7049068,"Longitude":-49.3122176},
+	{"INSTITUICAO":"EM Frei Nazareno Confaloni ","ENDERECO":"Rua U-64 / U-60 / U-59 area 151 S/N Setor Uniao","Latitude":-16.7083301,"Longitude":-49.3065416},
+	{"INSTITUICAO":"EM Georgeta Rivalino Duarte ","ENDERECO":"Rua General Cunha Matos QD. 27 LT2-7 n 455 Vila Maua","Latitude":-16.6995993,"Longitude":-49.3186649},
+	{"INSTITUICAO":"EM Honestino Monteiro Guimaraes ","ENDERECO":"Rua Prof Jose F. Da Cunha QD. 7 LT. 1-11 Jd. Aritana","Latitude":-16.7177592,"Longitude":-49.3758168},
+	{"INSTITUICAO":"EM Jarbas Jayme ","ENDERECO":"Rua C-75 n 243 Setor Sudoeste","Latitude":-16.6960122,"Longitude":-49.3092354},
+	{"INSTITUICAO":"EM Dom Thomas Balduino ","ENDERECO":"Rua dos Girassois, com Rua da Liberdade, Rua Aloe Vera e Rua Alegria, Jd. do Cerrado I.","Latitude":-16.7405046,"Longitude":-49.3424618},
+	{"INSTITUICAO":"EM Joao Alves de Queiroz ","ENDERECO":"Rua EF-9 c/ EF-10 QD. APN-3 Residencial Eli Forte","Latitude":-16.7287149,"Longitude":-49.3607287},
+	{"INSTITUICAO":"EM Joao Vieira da Paixao ","ENDERECO":"Rua SB-14 c/ SB-15 Residencial Solar Bouganville","Latitude":-16.7343531,"Longitude":-49.3865447},
+	{"INSTITUICAO":"EM Joaquim Camara Filho ","ENDERECO":"Rua das Dracenas c/ Rua das Magnolias  Jardins do Cerrado IV","Latitude":-16.7004244,"Longitude":-49.3235454},
+	{"INSTITUICAO":"EM Laurindo Sobreira do Amaral ","ENDERECO":"Rua Valdir Azevedo c/ Av. Gercina B. Teixeira area 122 Conj. Vera Cruz","Latitude":-16.6863658,"Longitude":-49.3884292},
+	{"INSTITUICAO":"EM Lorena Park ","ENDERECO":"Rua Valentim Capuzzo QD. 10 N 250 Lorena Park","Latitude":-16.6976744,"Longitude":-49.3598500},
+	{"INSTITUICAO":"EM Luzia de Souza Fiuza ","ENDERECO":"Rua W-10 QD. 42 Jardim Itaipu","Latitude":-16.7793811,"Longitude":-49.3655939},
+	{"INSTITUICAO":"EM Manoel Jacintho Coelho ","ENDERECO":"Rua JC-103 APM 4 Residencial Jardins do Cerrado VI","Latitude":-16.6753989,"Longitude":-49.4346461},
+	{"INSTITUICAO":"EM Monteiro Lobato ","ENDERECO":"Rua Conceicao Pereira Carmena QD. 10 Jd. Caravelas","Latitude":-16.7524862,"Longitude":-49.3561200},
+	{"INSTITUICAO":"EM Osterno Potenciano e Silva ","ENDERECO":"Rua 11 n 285 Setor Castelo Branco","Latitude":-16.6762857,"Longitude":-49.3025617},
+	{"INSTITUICAO":"EM Pedro Xavier Teixeira ","ENDERECO":"Rua CD-28 QD. F N 663 area Conjunto Cachoeira Dourada","Latitude":-16.7250996,"Longitude":-49.3260288},
+	{"INSTITUICAO":"EM Prof Antonia Maranhao do Amaral ","ENDERECO":"Av. Argentina Monteiro N 2131 Conjunto Vera Cruz VII Etapa","Latitude":-16.6744107,"Longitude":-49.3925035},
+	{"INSTITUICAO":"EM Prof Deushaydes R. de Oliveira ","ENDERECO":"Rua CP-26 n 125 Loteamento Celina Park","Latitude":-16.7058985,"Longitude":-49.3259487},
+	{"INSTITUICAO":"EM Prof Nara do Carmo Rezende Amorim ","ENDERECO":"Rua Elo-36 c/ Elo-26 QD. APM Pq. Eldorado Oeste","Latitude":-16.6942594,"Longitude":-49.4092747},
+	{"INSTITUICAO":"EM Renascer ","ENDERECO":"Rua RC-7c/ RC-16 APM 8 Residencial Real Conquista","Latitude":-16.7797072,"Longitude":-49.3889425},
+	{"INSTITUICAO":"EM Residencial Itaipu ","ENDERECO":"Rua RI-37 Qd. 102 LT.11 Residencial Itaipu","Latitude":-16.7931598,"Longitude":-49.3772430},
+	{"INSTITUICAO":"EM Residencial Monte Carlo ","ENDERECO":"area 10 entre Via Abel e RMC2 Residencial Monte Carlo","Latitude":-16.7274550,"Longitude":-49.3373280},
+	{"INSTITUICAO":"EM Setor Grajau ","ENDERECO":"Rua G1 QD. APM 11 Setor Grajau","Latitude":-16.7595743,"Longitude":-49.3617275},
+	{"INSTITUICAO":"EM Targino de Aguiar ","ENDERECO":"Al. Camara Filho QD. 134 LT.6/16 n 1652 Pq. Oeste Industrial","Latitude":-16.7022278,"Longitude":-49.3289046},
+	{"INSTITUICAO":"EM Vereador Carlos Eurico C. Alves ","ENDERECO":"Av. Bacuri n 486 Pq. Santa Rita","Latitude":-16.7220068,"Longitude":-49.3675067},
+	{"INSTITUICAO":"Educandario Rainha da Paz Rua ","ENDERECO":"U-54 area 15 Setor Uniao","Latitude":-16.7090518,"Longitude":-49.3056945},
+	{"INSTITUICAO":"Escola Especial ASCEP ","ENDERECO":"Rua Puccine N 145 Qd. 6 LT. 1-8 Jardim Europa","Latitude":-16.7096876,"Longitude":-49.3177883},
+	{"INSTITUICAO":"Escola Neio Lucio Naciff ","ENDERECO":"Rua Padre Eliezer QD. C-19 LT. 5 Conjunto Vera Cruz I","Latitude":-16.6619460,"Longitude":-49.3895504},
+	{"INSTITUICAO":"CEI Espirita Vovo Meca ","ENDERECO":"Via Santa Luzia Lt. 25 e 26 Condominio Rio Formoso","Latitude":-16.7193773,"Longitude":-49.3316079},
+	{"INSTITUICAO":"CEI Serafim Rodrigues de Morais Filho ","ENDERECO":"Rua Valentim Capuzzo c/ Rua Joaquim Alves Ribeiro QD. 36 Setor Solange Park","Latitude":-16.7006354,"Longitude":-49.3579432},
+	{"INSTITUICAO":"CEI Maria de Nazare ","ENDERECO":"Av. Argentina Monteiro Conjunto Vera Cruz","Latitude":-16.6793117,"Longitude":-49.3898167},
+	{"INSTITUICAO":"CMEI 13 de Maio ","ENDERECO":"Rua 13 de Maio, 57 Pq. Indl. Joao Braz","Latitude":-16.6901638,"Longitude":-49.3464375},
+	{"INSTITUICAO":"CMEI Andreia Cristina ","ENDERECO":"Alameda Tamandare QD. 3 Setor Boa Sorte","Latitude":-16.7653635,"Longitude":-49.3537043},
+	{"INSTITUICAO":"CMEI Residencial Buena Vista ","ENDERECO":"Rua Joao Amorely c/ Vanda Matos QD. APM 1 LT. 1 Residencial Buena Vista I","Latitude":-16.7265846,"Longitude":-49.4075275},
+	{"INSTITUICAO":"CMEI Clemente Raimundo Sauthier ","ENDERECO":"Av. Bacuri, 471 Pq. Santa Rita","Latitude":-16.7233784,"Longitude":-49.3689323},
+	{"INSTITUICAO":"CMEI Condominio Rio Branco ","ENDERECO":"Rua Oriente QD. 8 LT. 1 Cond. Rio Branco","Latitude":-16.7208488,"Longitude":-49.3852751},
+	{"INSTITUICAO":"CMEI Conjunto Vera Cruz II ","ENDERECO":"Rua Ari Barroso entre VC-57 e VC-58 Conj. Vera Cruz II","Latitude":-16.6805641,"Longitude":-49.3850038},
+	{"INSTITUICAO":"CMEI Conjunto Vera Cruz VI ","ENDERECO":"Rua VC-46 C/ Manoel Bandeira VI Etapa","Latitude":-16.6758823,"Longitude":-49.3825486},
+	{"INSTITUICAO":"CMEI Consuelo Nasser ","ENDERECO":"Rua AC-6 c/ AC-5 e AC-8 QD. APM 02 Residencial Ana Clara","Latitude":-16.7785063,"Longitude":-49.3686339},
+	{"INSTITUICAO":"CMEI Crianca Feliz ","ENDERECO":"Rua VC-3 QD. 1 Conj. Vera Cruz I","Latitude":-16.6594295,"Longitude":-49.3834126},
+	{"INSTITUICAO":"CMEI Domiciano de Faria ","ENDERECO":"Rua EF-16 c/ EF-18 Residencial Eli Forte","Latitude":-16.7353224,"Longitude":-49.3546905},
+	{"INSTITUICAO":"CMEI Goiania Viva ","ENDERECO":"Rua GV-23 c/ GV-22 QD. 55 LT.3,4,5 Residencial Goiania Viva","Latitude":-16.6981585,"Longitude":-49.3510084},
+	{"INSTITUICAO":"CMEI Jardim Ana Lucia ","ENDERECO":"Rua Ponte Nova S/N Jd. Ana Lucia","Latitude":-16.7017656,"Longitude":-49.3087424},
+	{"INSTITUICAO":"CMEI Jardins do Cerrado I ","ENDERECO":"Rua Amor Perfeito c/ Rua dos Girassois APM Jardins do Cerrado I","Latitude":-16.6655426,"Longitude":-49.4139406},
+	{"INSTITUICAO":"CMEI Jardins do Cerrado VI AMP-1 ","ENDERECO":"Rua JC-208 e JC-201 Residencial Jardim do Cerrado VI","Latitude":-16.6739024,"Longitude":-49.4312199},
+	{"INSTITUICAO":"CMEI Monteiro Lobato ","ENDERECO":"Av. Toquio c/ Av. Madri QD. 13 S/N Pq. Industrial Joao Braz","Latitude":-16.6877674,"Longitude":-49.3537590},
+	{"INSTITUICAO":"CMEI Orient Ville ","ENDERECO":"Rua Joaquim Candido Silva, Qd. APM - 2, Lt. 01 - area, St. Oriente Ville","Latitude":-16.7511237,"Longitude":-49.3558132},
+	{"INSTITUICAO":"CMEI Parque Eldorado Oeste ","ENDERECO":"Rua Elo 3 c/ Elo 43 c/ Elo 14 APM 7  Pq. Eldorado Oeste","Latitude":-16.6865008,"Longitude":-49.4096727},
+	{"INSTITUICAO":"CMEI Prof Nair Lacerda Jube Borges ","ENDERECO":"Rua 30 c/ rua 24 Condominio das Esmeraldas","Latitude":-16.7831943,"Longitude":-49.3597937},
+	{"INSTITUICAO":"CMEI Real Conquista Avenida ","ENDERECO":"Real Conquista com Rua RC52- Residencial Conquista.","Latitude":-16.7809805,"Longitude":-49.3853582},
+	{"INSTITUICAO":"CMEI Recanto Infantil ","ENDERECO":"Rua 8 c/ rua 3 Vila Santa Teresa","Latitude":-16.6817128,"Longitude":-49.3003519},
+	{"INSTITUICAO":"CMEI Residencial Alfaville ","ENDERECO":"Rua Alfa 24 c/ 19, 19-A e 26 Residencial Alfaville","Latitude":-16.7330481,"Longitude":-49.3762545},
+	{"INSTITUICAO":"CMEI Residencial Itaipu ","ENDERECO":"Rua RI-30 c/ RI-11 e RI-12 QD. 44 Residencial Itaipu","Latitude":-16.7873048,"Longitude":-49.3716220},
+	{"INSTITUICAO":"CMEI Setor Uniao ","ENDERECO":"Rua U-4 QD. 16 Setor Uniao","Latitude":-16.7088331,"Longitude":-49.3077683},
+	{"INSTITUICAO":"CMEI Solange Park II ","ENDERECO":"Rua Dna. Chiquita Qd. APM, Setor Solange Park II","Latitude":-16.7037301,"Longitude":-49.3559985},
+	{"INSTITUICAO":"CMEI Vila Maua ","ENDERECO":"Rua Inconfidencia Mineira Vila Maua","Latitude":-16.6994892,"Longitude":-49.3185737}
 ]
-
-
-	
-	
